@@ -19,7 +19,7 @@
 		compatible = "zmk,keymap";
 
 		default_layer {
-			label = "Default";
+			label = "wazzup";
 
 			sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
 
@@ -32,7 +32,7 @@
 			>;
 		};
 		function_layer {
-			label = "Function";
+			label = "pew pew";
 			
 			sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
 
